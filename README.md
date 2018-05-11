@@ -10,5 +10,5 @@ Classic Data Structures and Algorithms built in C, Ruby and Python for "Algorith
 
 ## Algorithms:
 - Sorting Algorithms
-  - Selection Sort: [C](selection-sort.c), [R](selection-sort.r), [Python](selection-sort.py).
-  - Bubble Sort: [C](bubble-sort.c), [R](bubble-sort.r), [Python](bubble-sort.py)
+  - Selection Sort: [C](selection-sort.c), [Ruby](selection-sort.rb), [Python](selection-sort.py).
+  - Bubble Sort: [C](bubble-sort.c), [Ruby](bubble-sort.rb), [Python](bubble-sort.py)
