@@ -7,6 +7,7 @@ Classic Data Structures and Algorithms built in **C**, **Ruby** and **Python** f
 - [Pedro Naresi](https://github.com/pedronaresi)
 
 ## Data Structures:
+- Graph: [C](datastructures/c/graph.c), [Ruby](datastructures/ruby/graph.rb), [Python](datastructures/python/graph.py).
 
 ## Algorithms:
 - Sorting Algorithms:
