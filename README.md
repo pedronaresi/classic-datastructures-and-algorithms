@@ -1,5 +1,5 @@
 # Classic Data Structures and Algorithms
-Classic Data Structures and Algorithms built in **C**, **Python**, **Ruby** and **sSwift** for "Algorithms and Data Structures I and II" courses of 2016 and 2017 at the Institute of Science and Technology at Federal University of São Paulo (UNIFESP). 📈
+Classic Data Structures and Algorithms built in **C**, **Python**, **Ruby** and **Swift** for "Algorithms and Data Structures I and II" courses of 2016 and 2017 at the Institute of Science and Technology at Federal University of São Paulo (UNIFESP). 📈
 
 *Read this in other languages: [English](README.md), [Portuguese](README.pt-BR.md).*
 
